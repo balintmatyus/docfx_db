@@ -1,0 +1,29 @@
+- name: Index
+  href: index.md
+- name: "D1L1 Introduction"
+  items:
+      - name: "Toughts on Data"
+        href: intro.md
+- name: "D1L2 Relational Modeling"
+  items:
+      - name: "Relational Modeling"
+        href: relatioal_database_in_theory.md
+      - name: "E. F. Codd's life"
+        href: codd_biography.md
+- name: "D1L4 ER-relational transf."
+  items:
+      - name: "e-commerce DB"
+        href: mermaid.md
+- name: "D2L1 Normalization"
+  items:
+       - name: "Types of keys"
+         href: types_of_keys.md
+       - name: "Normal forms by examples"
+         href: Normalization.md
+- name: "D2L3-4 Practice in SSMS"
+  items:
+       - name: "Work with SSMS"
+         href: db_build_in_practice.md
+        
+        
+  

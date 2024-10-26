@@ -1,0 +1,6 @@
+- name: Lecture Notes
+  href: docs/
+- name: MS-SQL Server
+  href: docs/SQLServer/
+- name: QR Code
+  href: qr_codes/qr_codes.md
