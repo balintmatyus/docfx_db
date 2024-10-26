@@ -3,7 +3,5 @@
 - name: "Database users and passwords"
   href: db_users_and_passwords.md       
 - name: "DB Management Scripts"
-  href: db_management_sql.md
-
-        
+  href: db_management_sql.md        
   
